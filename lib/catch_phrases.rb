@@ -12,7 +12,7 @@ def catch_phrase(phrase)
   puts phrase
 end
 
-def catch_phrase(any_phrase)
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase
+def any_phrase(phrase)
+  any_phrase = "Do A Barrel Roll!"
+  puts any_phrase
 end
