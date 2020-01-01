@@ -13,6 +13,6 @@ def catch_phrase(phrase)
 end
 
 def any_phrase(phrase)
-  any_phrase = "Do A Barrel Roll!"
-  puts any_phrase
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end
